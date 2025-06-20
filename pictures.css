@@ -53,8 +53,8 @@ footer {
 
 /* ===== Achievements Styles (from achievement.css) ===== */
 .achievement-page {
-  background-color: #e6f7ff;
-  font-family: Verdana, sans-serif;
+  background-color:#f0fff0;
+  font-family: sans-serif;
 }
 
 .achievement-page ul {
@@ -63,7 +63,7 @@ footer {
   line-height: 1.6;
 }
 
-.achievement-page h1 {
+.achievement-page {
   color: #003366;
 }
 
