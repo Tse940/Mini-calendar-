@@ -1,7 +1,7 @@
 /* ===== Global Styles (from style.css) ===== */
 body {
   font-family: Arial, sans-serif;
-  background: IMG-20250619-WA0025.jpg
+  background:##fefefe;
   margin: 0;
   color: #333;
 }
@@ -53,11 +53,11 @@ footer {
 
 /* ===== Achievements Styles (from achievement.css) ===== */
 .achievement-page {
-  background-color: #e6f7ff;
-  font-family: Verdana, sans-serif;
+  background-color: #f0fff0;
+  font-family: Arial , sans-serif;
 }
 
-.achievement-page ul {
+.achievement-page {
   font-size: 18px;
   padding-left: 20px;
   line-height: 1.6;
@@ -70,7 +70,7 @@ footer {
 
 /* ===== Pictures Styles (from pictures.css) ===== */
 .pictures-page {
-  background-color: #fefefe;
+  background-color:#fefefe;
   font-family: Arial, sans-serif;
 }
 
