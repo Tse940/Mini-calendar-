@@ -1,9 +1,9 @@
 /* ===== Global Styles (from style.css) ===== */
 body {
   font-family: Arial, sans-serif;
-  background: #f4f4f4,
+  background: #222;
   margin: 0;
-  color: #333;
+  color: gold;
 }
 
 header {
@@ -54,7 +54,7 @@ footer {
 /* ===== Achievements Styles (from achievement.css) ===== */
 .achievement-page {
   background-color: #f0fff0;
-  font-family:Arial, sans-serif;
+  font-family: sans-serif;
 }
 
 .achievement-page ul {
@@ -73,6 +73,7 @@ footer {
 .pictures-page {
   background-color: #fefefe;
   font-family: Arial, sans-serif;
+  text-align:center;
 }
 
 .gallery {
