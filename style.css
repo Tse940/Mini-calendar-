@@ -1,0 +1,106 @@
+
+/* ===== Global Styles ===== */
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  color: #333;
+}
+
+header {
+  background: #222;
+  color: gold;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+
+/* ===== About Us Page Styles ===== */
+.about-page {
+  background-color: #fffaf0;
+  font-family: Georgia, serif;
+}
+
+.about-page h1,
+.about-page h2 {
+  color: #8b4513;
+}
+
+.about-page nav a {
+  color: #8b0000;
+}
+
+
+/* ===== Achievements Page Styles ===== */
+.achievement-page {
+  background-color: #e6e6e6;
+  font-family: Verdana, sans-serif;
+  color: #000;
+}
+
+.achievement-page h1 {
+  color: #003366;
+}
+
+.achievement-page ul {
+  font-size: 18px;
+  padding-left: 20px;
+  line-height: 1.6;
+}
+
+
+/* ===== Pictures Page Styles ===== */
+.pictures-page {
+  background-color: #fefefe;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.gallery img {
+  width: 250px;
+  border-radius: 10px;
+  border: 2px solid #ccc;
+}
+
+
+/* ===== Videos Page Styles ===== */
+.videos-page {
+  background-color: #f0fff0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.videos-page video {
+  margin-top: 20px;
+  border: 3px solid #ccc;
+  border-radius: 10px;
+}
+
