@@ -53,18 +53,19 @@ footer {
 
 /* ===== Achievements Styles (from achievement.css) ===== */
 .achievement-page {
-  background-color: #e6f7ff;
-  font-family: Verdana, sans-serif;
+  background-color: #f0fff0;
+  font-family: , sans-serif;
 }
 
-.achievement-page ul {
+.achievement-page {
   font-size: 18px;
   padding-left: 20px;
   line-height: 1.6;
 }
 
-.achievement-page h1 {
-  color: #003366;
+.achievement-page {
+ background-color: #f0fff0;
+  font-family:sans-serif 
 }
 
 
@@ -72,6 +73,7 @@ footer {
 .pictures-page {
   background-color: #fefefe;
   font-family: Arial, sans-serif;
+  text-align:center;
 }
 
 .gallery {
